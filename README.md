@@ -1,3 +1,1 @@
-<a href="https://www.hackerrank.com/matterm74m7">
-  <img src="https://www.hackerrank.com/matterm74m7" alt="HackerRank Profile">
-</a>
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank-matterm74m7-brightgreen)](https://www.hackerrank.com/matterm74m7)
